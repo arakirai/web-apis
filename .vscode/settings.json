@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/7bec8d7c-3d8a-4701-ae58-cdda36a65074/microsoft.web/sites/subscriptions/7bec8d7c-3d8a-4701-ae58-cdda36a65074/resourceGroups/IoT/providers/Microsoft.Web/sites/tests-sampleApp",
+  "appService.deploySubpath": "."
+}
